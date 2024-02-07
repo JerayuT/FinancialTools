@@ -4,3 +4,4 @@ Feel Free to comment or make suggestions
 
 Current Projects:
 - Value at Risk
+- Portfolio Weights
